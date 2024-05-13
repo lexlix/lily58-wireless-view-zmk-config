@@ -59,9 +59,9 @@
             display-name = "Raise";
             bindings = <
 &trans  &trans           &kp C_PREV       &kp C_PLAY       &kp C_NEXT       &trans                                 &trans       &kp K_MUTE    &kp C_VOL_DN  &kp C_VOL_UP   &trans    &kp HOME
-&trans  &kp KP_SUBTRACT  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_PLUS                            &trans       &kp LC(LEFT)  &kp UP        &kp LC(RIGHT)  &trans    &kp PAGE_UP
+&trans  &kp KP_SUBTRACT  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_PLUS                            &trans       &kp LC(LEFT)  &kp UP        &kp LC(RIGHT)  &trans    &kp PAGE_UP
 &trans  &kp KP_DIVIDE    &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_MULTIPLY                        &trans       &kp LEFT      &kp DOWN      &kp RIGHT      &trans    &kp PAGE_DOWN
-&trans  &trans           &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &trans           &kp LPAR    &kp RPAR  &kp KP_PLUS  &kp MINUS     &kp EQUAL     &kp LBKT       &kp BSLH  &kp END
+&trans  &kp KP_NUMBER_0  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &trans           &kp LPAR    &kp RPAR  &kp KP_PLUS  &kp MINUS     &kp EQUAL     &kp LBKT       &kp BSLH  &kp END
                                           &trans           &trans           &trans           &trans      &trans    &trans       &trans        &trans
             >;
         };
